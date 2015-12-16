@@ -1,4 +1,4 @@
-Name : DROIDZ ( Takeover )
+Name : DROIDZ ( TakeOver )
 
 Ticker : DRZ
 
