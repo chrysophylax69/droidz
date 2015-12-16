@@ -1,6 +1,6 @@
-Building droidz
+Building droidz.
 
-See doc/readme-qt.rst for instructions on building droidz QT,
+See doc/readme-qt.rst for instructions on building droidz-qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of droidz.
 
