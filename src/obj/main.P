@@ -1,0 +1,26 @@
+obj/main.o: main.cpp alert.h uint256.h util.h uint256_t.h netbase.h \
+ serialize.h allocators.h version.h clientversion.h compat.h \
+ checkpoints.h net.h mruset.h protocol.h addrman.h sync.h db.h main.h \
+ bignum.h script.h keystore.h crypter.h key.h scrypt.h hashblock.h \
+ sph_luffa.h sph_types.h sph_cubehash.h sph_shavite.h sph_simd.h \
+ sph_echo.h genesis.h txdb.h txdb-leveldb.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/db.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/iterator.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/slice.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/status.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/options.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/write_batch.h \
+ init.h wallet.h ui_interface.h walletdb.h base58.h kernel.h
+main.cpp alert.h uint256.h util.h uint256_t.h netbase.h :
+ serialize.h allocators.h version.h clientversion.h compat.h :
+ checkpoints.h net.h mruset.h protocol.h addrman.h sync.h db.h main.h :
+ bignum.h script.h keystore.h crypter.h key.h scrypt.h hashblock.h :
+ sph_luffa.h sph_types.h sph_cubehash.h sph_shavite.h sph_simd.h :
+ sph_echo.h genesis.h txdb.h txdb-leveldb.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/db.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/iterator.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/slice.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/status.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/options.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/write_batch.h :
+ init.h wallet.h ui_interface.h walletdb.h base58.h kernel.h :

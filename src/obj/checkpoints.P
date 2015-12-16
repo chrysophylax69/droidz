@@ -1,0 +1,24 @@
+obj/checkpoints.o: checkpoints.cpp checkpoints.h net.h mruset.h netbase.h \
+ serialize.h allocators.h version.h clientversion.h compat.h protocol.h \
+ uint256.h addrman.h util.h uint256_t.h sync.h genesis.h bignum.h txdb.h \
+ txdb-leveldb.h main.h script.h keystore.h crypter.h key.h scrypt.h \
+ hashblock.h sph_luffa.h sph_types.h sph_cubehash.h sph_shavite.h \
+ sph_simd.h sph_echo.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/db.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/iterator.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/slice.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/status.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/options.h \
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/write_batch.h
+checkpoints.cpp checkpoints.h net.h mruset.h netbase.h :
+ serialize.h allocators.h version.h clientversion.h compat.h protocol.h :
+ uint256.h addrman.h util.h uint256_t.h sync.h genesis.h bignum.h txdb.h :
+ txdb-leveldb.h main.h script.h keystore.h crypter.h key.h scrypt.h :
+ hashblock.h sph_luffa.h sph_types.h sph_cubehash.h sph_shavite.h :
+ sph_simd.h sph_echo.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/db.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/iterator.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/slice.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/status.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/options.h :
+ /home/rai/Desktop/droidz/Droidz/src/leveldb/include/leveldb/write_batch.h :
