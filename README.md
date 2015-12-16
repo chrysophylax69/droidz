@@ -1,7 +1,7 @@
-Name: DROIDZ (Takeover of abandoned coin)
+Name : DROIDZ (Takeover of abandoned coin)
 
-Ticker: DRZ
+Ticker : DRZ
 
-Supply: ~5.080.000 at block 90000
+Supply : ~5,080,000 at block 90,000
 
-PoS: 5%
+PoS : 5%
