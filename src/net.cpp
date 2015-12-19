@@ -1138,14 +1138,18 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-    {"52.10.83.0", "52.10.83.0"},
-    {"79.69.39.40", "79.69.39.40"},
-	{"162.213.195.88", "162.213.195.88"},
-    {"68.197.2.158", "68.197.2.158"},
-    {"85.25.214.214", "85.25.214.214"},
-    {"79.69.39.40", "79.69.39.40"},
-    {"188.165.3.6", "188.165.3.6"},
-    {"24.49.122.218", "24.49.122.218"},
+	{"drz-seed1.granitecoin.com", "drz-seed1.granitecoin.com"},
+	{"drz-seed2.granitecoin.com", "drz-seed2.granitecoin.com"},
+	{"drz-seed3.granitecoin.com", "drz-seed3.granitecoin.com"},
+// below are the old seed ip addresses - preserved for archival purposes ...	
+//    {"52.10.83.0", "52.10.83.0"},
+//    {"79.69.39.40", "79.69.39.40"},
+//	{"162.213.195.88", "162.213.195.88"},
+//    {"68.197.2.158", "68.197.2.158"},
+//    {"85.25.214.214", "85.25.214.214"},
+//    {"79.69.39.40", "79.69.39.40"},
+//    {"188.165.3.6", "188.165.3.6"},
+//    {"24.49.122.218", "24.49.122.218"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
